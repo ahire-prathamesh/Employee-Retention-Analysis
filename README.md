@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to uncover patterns in employee attri
 Helps identify key reasons behind employee exits across departments, roles, and demographics, enabling organizations to improve employee satisfactions and reduce turnover.
 
 **🛠 Tech Stack**:
-**Excel**- Data source for employee records.\\
+**Excel**- Data source for employee records.\
 **Power BI**- Dashboard creation and visualization.
 **Power Query**- Data cleaning and transformation.
 **DAX**- Custom KPIs and metrics.
