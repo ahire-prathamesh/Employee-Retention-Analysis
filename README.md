@@ -6,6 +6,7 @@ Helps identify key reasons behind employee exits across departments, roles, and 
 
 **🛠 Tech Stack**:
 **Excel**- Data source for employee records.
+
 **Power BI**- Dashboard creation and visualization.
 **Power Query**- Data cleaning and transformation.
 **DAX**- Custom KPIs and metrics.
