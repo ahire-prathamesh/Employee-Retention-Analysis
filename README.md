@@ -11,7 +11,7 @@ Helps identify key reasons behind employee exits across departments, roles, and 
 **DAX**- Custom KPIs and metrics.\
 **Data Modeling**- Relationship buildinng between multiple employee attributes.
 
-**📊 Key Features**:\
+**📊 Key Features**:
 - Attrition breakdown by department, role, and age group 
 - KPIs: Total employees, exits, attrition rate, average years at company
 - Visuals: Heatmaps, bar charts, and demographics-based insights
