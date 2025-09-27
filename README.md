@@ -1,15 +1,15 @@
 **📌 Employee-Retention-Analysis-Dashboard**
-An interactive Power BI dashboard designed to uncover patterns in employee attrition and support HR in making data-driven retention decisions
+An interactive Power BI dashboard designed to uncover patterns in employee attrition and support HR in making data-driven retention decisions.
 
 **🎯 Purpose**:
 Helps identify key reasons behind employee exits across departments, roles, and demographics, enabling organizations to improve employee satisfactions and reduce turnover.
 
 **🛠 Tech Stack**:
-**Excel**- Data source for employee records
-**Power BI** - Dashboard creation and visualization
-**Power Query**- Data cleaning and transformation
-**DAX**- Custom KPIs and metrics
-**Data Modeling**- Relationship buildinng between multiple employee attributes
+**Excel**- Data source for employee records.
+**Power BI**- Dashboard creation and visualization.
+**Power Query**- Data cleaning and transformation.
+**DAX**- Custom KPIs and metrics.
+**Data Modeling**- Relationship buildinng between multiple employee attributes.
 
 **📊 Key Features**:
 - Attrition breakdown by department, role, and age group 
